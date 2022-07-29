@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle judi-onlin-slot",
+        "command": "judi-onlin-slot:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "judi-onlin-slot",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "judi-onlin-slot:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
